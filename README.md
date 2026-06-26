@@ -7,7 +7,7 @@ This repository contains all the projects, assignments, and learnings completed 
 
 ##  About This Internship
 - Duration: 4 Weeks (Ongoing)
-- Domain: Machine Learning & Data Science
+- Domain: Machine Learning & AI
 - Focus: Data preprocessing, visualization, and building ML models
 - Goal: To gain hands-on experience and build real-world ML projects
 
