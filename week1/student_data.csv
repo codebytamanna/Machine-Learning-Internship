@@ -1,0 +1,11 @@
+Name,Gender,Department,Age,CGPA,Attendance
+Amit,Male,CSE,20.0,8.5,90.0
+Priya,Female,IT,21.0,9.1,95.0
+Rahul,Male,ECE,20.0,7.8,85.0
+Sneha,Female,CSE,22.0,8.9,92.0
+Karan,Male,IT,21.0,,88.0
+Anjali,Female,ECE,,9.3,96.0
+Vivek,Male,CSE,20.0,7.5,
+Neha,Female,IT,22.0,8.8,91.0
+Arjun,Male,ECE,21.0,8.2,89.0
+Pooja,Female,CSE,,9.0,94.0
