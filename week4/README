@@ -1,0 +1,39 @@
+WEEK 4 PROGRESS
+
+SUPPORT VECTOR MACHINE (SVM) & MODEL OPTIMIZATION
+
+    Preprocessed and scaled the Heart Disease dataset using StandardScaler
+    Built and trained a Support Vector Machine (SVM) classification model
+    Evaluated model performance using 5-Fold Cross Validation
+    Compared accuracy scores across different validation folds
+    Optimized the SVM model using GridSearchCV
+    Tuned hyperparameters such as C, kernel, and gamma
+    Evaluated the optimized model using Accuracy Score, Confusion Matrix, and Classification Report
+
+MODEL SAVING & PREDICTION
+
+    Saved the trained SVM model using Joblib
+    Loaded the saved model without retraining
+    Predicted heart disease for new patient data
+    Understood the complete workflow of model saving, loading, and prediction
+
+SKILLS GAINED
+
+    Support Vector Machine (SVM)
+    Feature Scaling using StandardScaler
+    Cross Validation
+    Hyperparameter Tuning using GridSearchCV
+    Model Evaluation Techniques
+    Confusion Matrix & Classification Report
+    Model Saving & Loading with Joblib
+    Machine Learning Model Deployment Basics
+
+TOOLS & TECHNOLOGIES
+
+    Python
+    Pandas
+    NumPy
+    Scikit-learn
+    Joblib
+    Matplotlib
+    Jupyter Notebook
